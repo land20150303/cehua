@@ -48,10 +48,6 @@ public class MainActivity extends AppCompatActivity implements DrawerLayout.Draw
 
     }
 
-    public void opence(View view){
-        openedOrClosedSlide();
-    }
-
     /**
      * 侧滑菜单打开或关闭
      */
